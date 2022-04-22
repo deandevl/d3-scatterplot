@@ -5,4 +5,4 @@ Contains a simple javascript class for creating [d3](https://d3js.org/) based sc
 2. Enter the command `http-server`in the `prod` folder.
 3. From a browser enter the url: `localhost:8080/` to view the demo.
 
-See the javascript file `demo\js\draw_scatterplot.js` for the implementation of the class.
+See the javascript file `demo\js\draw_scatterplot.js` for the implementation of the class where the `draw()` method of the class returns the min/max values for the x and y data.
