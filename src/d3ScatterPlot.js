@@ -35,10 +35,6 @@ export default class d3ScatterPlot{
    */
   margin_bottom = 50;
   /**
-   * An array that sets the tics values for x axis
-   * @type {number}
-   */
-  /**
    * The table's title
    * @type {string}
    */
@@ -49,8 +45,8 @@ export default class d3ScatterPlot{
    */
   sub_title = undefined
   /**
-   * An array of string column headers
-   * @type {string}
+   * An array that sets the tics values for x axis
+   * @type {number}
    */
   x_tics = undefined
   /**
