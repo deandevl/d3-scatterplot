@@ -3,7 +3,7 @@
  */
 'use strict';
 import {csv} from 'd3-fetch'
-import d3ScatterPlot from "../d3ScatterPlot.js";
+import d3ScatterPlot from 'd3-scatterplot';
 
 async function get_data(data_path){
   try {
