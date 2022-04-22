@@ -1,0 +1,31 @@
+{
+  "name": "d3-scatterplot",
+  "version": "0.1.0",
+  "description": "Contains a simple javascript class for creating d3 based scatterplots.",
+  "source": "src/d3ScatterPlot.js",
+  "module": "dist/d3ScatterPlot_min.js",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deandevl/d3-scatterplot.git"
+  },
+  "keywords": [],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/d3-scatterplot/issues"
+  },
+  "homepage": "https://github.com/deandevl/d3-scatterplot#readme",
+  "dependencies": {
+    "d3-array": "^3.1.6",
+    "d3-axis": "^3.0.0",
+    "d3-fetch": "^3.0.1",
+    "d3-scale": "^4.0.2",
+    "d3-selection": "^3.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
+}

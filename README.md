@@ -1,2 +1,2 @@
 # d3-scatterplot
-Contains a simple javascript class for creating d3 bases scatterplots
+Contains a simple javascript class for creating d3 based scatterplots.
